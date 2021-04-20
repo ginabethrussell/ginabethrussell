@@ -11,4 +11,4 @@ I'm a full stack software developer who is insatiably curious and loves learning
 
 
 ### Find me around the web 🌎: 
-- Sharing updates on <a href="https://www.linkedin.com/in/ginabethrussell/">LinkedIn</a> 💼
+- Sharing updates on <a href="https://www.linkedin.com/in/gina-beth-russell/">LinkedIn</a> 💼
