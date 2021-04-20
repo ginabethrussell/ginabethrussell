@@ -1,6 +1,6 @@
 ##  👋 Hi, I'm Gina Beth 👩‍💻
 
-I'm a full stack web developer who is insatiably curious and loves learning new things. Some technologies I enjoy working with are ReactJS, Java Spring, and Python. I am passionate about sharing software development educational and career opportunities with young women and women looking to reenter the workforce. 
+I'm a full stack software developer who is insatiably curious and loves learning new things. Some technologies I enjoy working with are ReactJS, Java Spring, and Python. I am passionate about sharing software development educational and career opportunities with young women and women looking to reenter the workforce. 
 
 - 🔭 I’m currently working on creating a free online foundational course in Python for middle school girls
 - 🌱 I’m currently learning more about OOP with Java
