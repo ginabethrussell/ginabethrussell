@@ -1,8 +1,8 @@
 ##  👋 Hi, I'm Gina Beth 👩‍💻
 
-I'm a full stack software developer who is insatiably curious and loves learning new things. Some technologies I enjoy working with are React Native, ReactJS, Java Spring, and Python. I am passionate about sharing software development educational and career opportunities with young women and women looking to reenter the workforce. 
+I'm a full stack software developer who is insatiably curious and loves learning new things. Some technologies I enjoy working with are ReactJS, React Native, Java Spring, and Python. I am passionate about sharing software development educational and career opportunities with young women and women looking to reenter the workforce. 
 
-- 🔭 I’m currently developing cross platform mobile apps with React Native
+- 🔭 I’m currently developing cross platform mobile apps with React Native and Expo and building front end apps with React
 - 🌱 I’m interested in learning more about programming with Flutter and Swift
 - 👯 I’m looking to collaborate on building a supportive tech community for women
 - 💬 Ask me about Big Robots 🤖 Pop Footballs 🏈 
