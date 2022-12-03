@@ -7,7 +7,7 @@ I'm a full stack software developer who is insatiably curious and loves learning
 - 👯 I’m looking to collaborate on building a supportive tech community for women
 - 💬 Ask me about Big Robots 🤖 Pop Footballs 🏈 
 - 📫 How to reach me: ginabeth.russell@gmail.com
-- ⚡ Fun fact: I'm a huge sports fan. My favorite teams include the 🏈 Ohio State Buckeyes, the ⚾️ New York Yankees, the 🏈 Green Bay Packers and the 🏀 Golden State Warriors
+- ⚡ Fun fact: I'm a huge sports fan. My favorite teams include the 🏈 Ohio State Buckeyes, the ⚾️ New York Yankees, the 🏈 Buffalo Bills and the 🏀 Golden State Warriors
 
 
 ### Find me around the web 🌎: 
